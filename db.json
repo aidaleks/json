@@ -2,7 +2,7 @@
   "date": [
     {
     "id": "test1",
-    "bool": true,
+    "bool": [true,false,true],
 	"number": "44",
 	"MM/dd/yyyy HH:mm:ss": "03/06/2007 13:44:25",
 	"dd-MMM-yyyy hh:mm aa": "09-Jul-2021 11:43 AM",
