@@ -3,7 +3,7 @@
     {
     "id": "test1, test2",
     "bool": true,
-	"number": "44",
+	"number": "2001",
 	"text": "{ \t\"countriesWhereTheCarWas\": [], \t\"year\": \"\", \t\"brand\": \"\", \t\"model\": \"\", \t\"description\": \"\", \t\"onBoardComputer\": \"\", \t\"gasEquipment\": \"\", \t\"audioSystem\": \"\", \t\"autoDrive\": \"\" }",
 	"dd-MMM-yyyy hh:mm aa": "09-Jul-2021 11:43 AM",
 	"dd-MMM-yyyy hh:mm:ss.s aa": "09-Jul-2021 11:43:39.39 AM",
@@ -44,9 +44,11 @@
     {
       "id": "test1",
       "bool": false
+	  "number": "2000",
     },
     {
       "id": "test3",
+	  "number": "2002",
       "MM/dd/yyyy HH:mm:ss": "07/06/2007 13:44:25",
 	  "MM/dd/yyyy HH:mm": "10/06/2007 13:44"
     }
