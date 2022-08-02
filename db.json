@@ -5,7 +5,7 @@
     "bool": true,
 	"number": "2001",
 	"text": "{ \t\"countriesWhereTheCarWas\": [], \t\"year\": \"\", \t\"brand\": \"\", \t\"model\": \"\", \t\"description\": \"\", \t\"onBoardComputer\": \"\", \t\"gasEquipment\": \"\", \t\"audioSystem\": \"\", \t\"autoDrive\": \"\" }",
-	"googlemap": "49 Komitas Avenue, Yerevan, Armenia"
+	"googlemap": "49 Komitas Avenue, Yerevan, Armenia",
 	"dd-MMM-yyyy hh:mm aa": "09-Jul-2021 11:43 AM",
 	"dd-MMM-yyyy hh:mm:ss.s aa": "09-Jul-2021 11:43:39.39 AM",
 	"dd-MMMM-yyyy hh:mm:ss.s aa": "09-July-2021 11:43:52.52 AM",
