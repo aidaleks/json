@@ -4,6 +4,7 @@
 "id": "test2",
 "bool": true,
 "number": "2001",
+"phone": "(111) 111-1111",
 "text": "{ \t\"countriesWhereTheCarWas\": [], \t\"year\": \"\", \t\"brand\": \"\", \t\"model\": \"\", \t\"description\": \"\", \t\"onBoardComputer\": \"\", \t\"gasEquipment\": \"\", \t\"audioSystem\": \"\", \t\"autoDrive\": \"\" }",
 "googlemap": "49 Komitas Avenue, Yerevan, Armenia",
 "books": [
@@ -57,11 +58,13 @@
 {
 "id": "test1",
 "number": "2000",
+"phone": "(222) 222-2222",
 "bool": false
 },
 {
 "id": "test3",
 "number": "2002",
+"phone": "(333) 333-3333",
 "MM/dd/yyyy HH:mm:ss": "07/06/2007 13:44:25",
 "MM/dd/yyyy HH:mm": "10/06/2007 13:44"
 }
