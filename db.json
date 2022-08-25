@@ -8,16 +8,25 @@
 "text": "{ \t\"countriesWhereTheCarWas\": [], \t\"year\": \"\", \t\"brand\": \"\", \t\"model\": \"\", \t\"description\": \"\", \t\"onBoardComputer\": \"\", \t\"gasEquipment\": \"\", \t\"audioSystem\": \"\", \t\"autoDrive\": \"\" }",
 "googlemap": "49 Komitas Avenue, Yerevan, Armenia",
 "books": [
-			[
-				"Nicholas1 C. Zakas",
+			
+				{
+"hex_value": "#b72227",
+"colour_name": "Bee's Knees"
+},
+{
+"hex_value": "#BB656B",
+"colour_name": "Brain Freeze"
+},
+{
+"hex_value": "#8E4140",
+"colour_name": "Drip"
+},
+{
+"hex_value": "#A12A33",
+"colour_name": "On a Stick"
+}
 				
-				[
-					"MC C.Zakas",
-					[
-						"Joe Fawcett"
-					]
-				]
-			]
+				
 		],
 "dd-MMM-yyyy hh:mm aa": "09-Jul-2021 11:43 AM",
 "dd-MMM-yyyy hh:mm:ss.s aa": "09-Jul-2021 11:43:39.39 AM",
@@ -59,6 +68,20 @@
 "id": "test1",
 "number": "2000",
 "phone": "(222) 222-2222",
+"books": [
+			
+				{
+"hex_value": "#b72227",
+"colour_name": "Bee's Knees"
+},
+{
+"hex_value": "#BB656B",
+"colour_name": "Brain Freeze"
+}
+
+				
+				
+		],
 "bool": false
 },
 {
