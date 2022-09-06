@@ -10,22 +10,89 @@
 "books": [
 			
 				{
-"hex_value": "#b72227",
+"hex_value": "#b7222711",
 "colour_name": "Bee's Knees"
 },
 {
-"hex_value": "#BB656B",
+"hex_value": "#BB656B22",
 "colour_name": "Brain Freeze"
 },
 {
-"hex_value": "#8E4140",
+"hex_value": "#8E414033",
 "colour_name": "Drip"
 },
 {
-"hex_value": "#A12A33",
+"hex_value": "#A12A3344",
 "colour_name": "On a Stick"
-}
-				
+},
+{
+"hex_value": "#b7222755",
+"colour_name": "Bee's Knees"
+},
+{
+"hex_value": "#BB656B66",
+"colour_name": "Brain Freeze"
+},
+{
+"hex_value": "#8E414077",
+"colour_name": "Drip"
+},
+{
+"hex_value": "#A12A3388",
+"colour_name": "On a Stick"
+},
+{
+"hex_value": "#b7222799",
+"colour_name": "Bee's Knees"
+},
+{
+"hex_value": "#BB656B110",
+"colour_name": "Brain Freeze"
+},
+{
+"hex_value": "#8E4140111",
+"colour_name": "Drip"
+},
+{
+"hex_value": "#A12A33120",
+"colour_name": "On a Stick"
+},
+{
+"hex_value": "#b72227130",
+"colour_name": "Bee's Knees"
+},
+{
+"hex_value": "#BB656B140",
+"colour_name": "Brain Freeze"
+},
+{
+"hex_value": "#8E4140150",
+"colour_name": "Drip"
+},
+{
+"hex_value": "#A12A33160",
+"colour_name": "On a Stick"
+},
+{
+"hex_value": "#b72227170",
+"colour_name": "Bee's Knees"
+},
+{
+"hex_value": "#BB656B180",
+"colour_name": "Brain Freeze"
+},
+{
+"hex_value": "#8E4140190",
+"colour_name": "Drip"
+},
+{
+"hex_value": "#A12A33200",
+"colour_name": "On a Stick"
+},
+{
+"hex_value": "#A12A33210",
+"colour_name": "On a Stick"
+}				
 				
 		],
 "dd-MMM-yyyy hh:mm aa": "09-Jul-2021 11:43 AM",
@@ -71,16 +138,65 @@
 "books": [
 			
 				{
-"hex_value": "#b72227",
+"hex_value": "#b7222711aa",
 "colour_name": "Bee's Knees"
 },
 {
-"hex_value": "#BB656B",
+"hex_value": "#BB656B22aa",
 "colour_name": "Brain Freeze"
+},
+{
+"hex_value": "#8E414033aa",
+"colour_name": "Drip"
+},
+{
+"hex_value": "#A12A3344aa",
+"colour_name": "On a Stick"
+},
+{
+"hex_value": "#b7222755aa",
+"colour_name": "Bee's Knees"
+},
+{
+"hex_value": "#BB656B66aa",
+"colour_name": "Brain Freeze"
+},
+{
+"hex_value": "#8E414077aa",
+"colour_name": "Drip"
+},
+{
+"hex_value": "#A12A3388aa",
+"colour_name": "On a Stick"
+},
+{
+"hex_value": "#b7222799aa",
+"colour_name": "Bee's Knees"
+},
+{
+"hex_value": "#BB656B110aa",
+"colour_name": "Brain Freeze"
+},
+{
+"hex_value": "#8E4140111aa",
+"colour_name": "Drip"
+},
+{
+"hex_value": "#A12A33120aa",
+"colour_name": "On a Stick"
+},
+{
+"hex_value": "#b72227130aa",
+"colour_name": "Bee's Knees"
+},
+{
+"hex_value": "#BB656B140aa",
+"colour_name": "Brain Freeze"
+},
+{
+"hex_value": "#8E4140150aa",
+"colour_name": "Drip"
 }
-
-				
-				
 		],
 "bool": false
 },
