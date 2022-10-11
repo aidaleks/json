@@ -2,13 +2,28 @@
 "date": [
 {
 "id": "test2",
+"country": "Spain",
 "bool": true,
 "number": "2001",
 "phone": "(111) 111-1111",
 "text": "{ \t\"countriesWhereTheCarWas\": [], \t\"year\": \"\", \t\"brand\": \"\", \t\"model\": \"\", \t\"description\": \"\", \t\"onBoardComputer\": \"\", \t\"gasEquipment\": \"\", \t\"audioSystem\": \"\", \t\"autoDrive\": \"\" }",
 "googlemap": "49 Komitas Avenue, Yerevan, Armenia",
+"countries": [	
+				{
+"tab": "Spain"
+},
+				{
+"tab": "France"
+},
+				{
+"tab": "Poland"
+},
+{
+"tab": "Austria"
+}
+		],
 "books": [
-			
+					
 				{
 "hex_value": null,
 "colour_name": "Bee's Knees"
@@ -133,6 +148,7 @@
 },
 {
 "id": "test1",
+"country": "France",
 "number": "2000",
 "phone": "(222) 222-2222",
 "books": [
@@ -202,6 +218,7 @@
 },
 {
 "id": "test3",
+"country": "Poland",
 "number": "2002",
 "phone": "(333) 333-3333",
 "MM/dd/yyyy HH:mm:ss": "07/06/2007 13:44:25",
