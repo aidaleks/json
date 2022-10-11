@@ -10,13 +10,16 @@
 "googlemap": "49 Komitas Avenue, Yerevan, Armenia",
 "countries": [	
 				{
-"tab": "test1"
+"tab": "test1",
+"claim": "AZZ1"
 },
 				{
-"tab": "test2"
+"tab": "test2",
+"claim": "AZZ2"
 },
 				{
-"tab": "Spain"
+"tab": "Spain",
+"claim": "AZZ_Spain"
 },
 				{
 "tab": "France"
