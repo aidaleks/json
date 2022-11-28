@@ -37,7 +37,7 @@
 "hex_value": null,
 "colour_name": "",
 "email_dup": "test@test.com",
-"bool_dup": "",
+"bool_dup": null,
 "phone_dup": "(111) 111-1111"
 },
 {
