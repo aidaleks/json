@@ -35,43 +35,73 @@
 					
 				{
 "hex_value": null,
-"colour_name": "Bee's Knees"
+"colour_name": "",
+"email_dup": "test@test.com",
+"bool_dup": "",
+"phone_dup": "(111) 111-1111"
 },
 {
 "hex_value": "#BB656B22",
-"colour_name": "Brain Freeze"
+"colour_name": "Brain Freeze",
+"email_dup": "test2@test.com",
+"bool_dup": true,
+"phone_dup": "(111) 211-1111"
 },
 {
 "hex_value": "#8E414033",
-"colour_name": "Drip"
+"colour_name": "Drip",
+"email_dup": "test3@test.com",
+"bool_dup": false,
+"phone_dup": "(111) 311-1111"
 },
 {
 "hex_value": "",
-"colour_name": "On a Stick"
+"colour_name": "On a Stick",
+"email_dup": "test4@test.com",
+"bool_dup": true,
+"phone_dup": "(111) 411-1111"
 },
 {
 "hex_value": "#b7222755",
-"colour_name": "Bee's Knees"
+"colour_name": "Bee's Knees",
+"email_dup": "test5@test.com",
+"bool_dup": true,
+"phone_dup": "(111) 511-1111"
 },
 {
 "hex_value": "",
-"colour_name": "Brain Freeze"
+"colour_name": "Brain Freeze",
+"email_dup": "test6@test.com",
+"bool_dup": true,
+"phone_dup": "(111) 611-1111"
 },
 {
 "hex_value": "#8E414077",
-"colour_name": "Drip"
+"colour_name": "Drip",
+"email_dup": "",
+"bool_dup": true,
+"phone_dup": "(111) 711-1111"
 },
 {
 "hex_value": "#A12A3388",
-"colour_name": "On a Stick"
+"colour_name": "On a Stick",
+"email_dup": "test8@test.com",
+"bool_dup": false,
+"phone_dup": "(111) 811-1111"
 },
 {
 "hex_value": "#b7222799",
-"colour_name": "Bee's Knees"
+"colour_name": "Bee's Knees",
+"email_dup": "test9@test.com",
+"bool_dup": true,
+"phone_dup": ""
 },
 {
 "hex_value": "#BB656B110",
-"colour_name": "Brain Freeze"
+"colour_name": "Brain Freeze",
+"email_dup": "test10@test.com",
+"bool_dup": true,
+"phone_dup": "(111) 101-1111"
 },
 {
 "hex_value": "#8E4140111",
