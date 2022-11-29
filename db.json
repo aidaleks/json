@@ -38,6 +38,7 @@
 "colour_name": "",
 "email_dup": "test@test.com",
 "bool_dup": true,
+"MM/dd/yyyy": "01/09/2021",
 "phone_dup": "(111) 111-1111"
 },
 {
@@ -45,6 +46,7 @@
 "colour_name": "Brain Freeze",
 "email_dup": "test2@test.com",
 "bool_dup": true,
+"MM/dd/yyyy": "02/09/2021",
 "phone_dup": "(111) 211-1111"
 },
 {
@@ -52,6 +54,7 @@
 "colour_name": "Drip",
 "email_dup": "test3@test.com",
 "bool_dup": false,
+"MM/dd/yyyy": "05/05/1780",
 "phone_dup": "(111) 311-1111"
 },
 {
@@ -59,6 +62,7 @@
 "colour_name": "On a Stick",
 "email_dup": "test4@test.com",
 "bool_dup": true,
+"MM/dd/yyyy": "04/09/2021",
 "phone_dup": "(111) 411-1111"
 },
 {
@@ -66,6 +70,7 @@
 "colour_name": "Bee's Knees",
 "email_dup": "test5@test.com",
 "bool_dup": true,
+"MM/dd/yyyy": "07/09/2021",
 "phone_dup": "(111) 511-1111"
 },
 {
