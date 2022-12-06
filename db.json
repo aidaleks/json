@@ -328,64 +328,28 @@
 "books": [
 			
 				{
-"hex_value": "#b7222711aa",
-"colour_name": "Bee's Knees"
+"hex_value": null,
+"colour_name": "",
+"email_dup": "test@test.com",
+"bool_dup": true,
+"MM/dd/yyyy": "01/09/2021",
+"phone_dup": "(111) 111-1111"
 },
 {
-"hex_value": "#BB656B22aa",
-"colour_name": "Brain Freeze"
+"hex_value": "#BB656B22",
+"colour_name": "Brain Freeze",
+"email_dup": "test2@test.com",
+"bool_dup": true,
+"MM/dd/yyyy": "02/09/2021",
+"phone_dup": "(111) 211-1111"
 },
 {
-"hex_value": "#8E414033aa",
-"colour_name": "Drip"
-},
-{
-"hex_value": "#A12A3344aa",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#b7222755aa",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B66aa",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E414077aa",
-"colour_name": "Drip"
-},
-{
-"hex_value": "#A12A3388aa",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#b7222799aa",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B110aa",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E4140111aa",
-"colour_name": "Drip"
-},
-{
-"hex_value": "#A12A33120aa",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#b72227130aa",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B140aa",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E4140150aa",
-"colour_name": "Drip"
+"hex_value": "#8E414033",
+"colour_name": "Drip",
+"email_dup": "test3@test.com",
+"bool_dup": false,
+"MM/dd/yyyy": "05/05/1780",
+"phone_dup": "(111) 311-1111"
 }
 		],
 "bool": false
