@@ -284,11 +284,17 @@
 "phone_dup": "(111) 311-1111"
 }			
 		],
-"dd-MMM-yyyy hh:mm aa": "09-Jul-2021 11:43 AM",
-"dd-MMM-yyyy hh:mm:ss.s aa": "09-Jul-2021 11:43:39.39 AM",
-"dd-MMMM-yyyy hh:mm:ss.s aa": "09-July-2021 11:43:52.52 AM",
-"dd/MMM/yyyy hh:mm:ss.s aa": "09/Jul/2021 11:44:04.4 AM",
-"dd/MMMM/yyyy hh:mm:ss.s aa": "09/July/2021 11:44:19.19 AM",
+"yyyy-MM-dd'T'HH:mm:ss.SSS'Z'": "2011-11-02T02:50:12.208Z",
+"yyyy-MM-dd'T'hh:mm:ssZ": "2013-09-29T18:46:19Z",
+"yyyy-MM-dd'T'HH:mm'Z'": "2014-08-29T18:46Z",
+"yyyy-MM-dd'T'HH:mm:ss": "2018-04-26T12:59:38",
+"MM/dd/yyyy HH:mm": "07/09/2021 11:24",
+"MM/dd/yyyy HH:mm:ss": "07/09/2021 11:24:44",
+"dd-MMM-yyyy hh:mm a": "09-Jul-2021 11:43 AM",
+"dd-MMM-yyyy hh:mm:ss.s a": "09-Jul-2021 11:43:39.39 AM",
+"dd-MMMM-yyyy hh:mm:ss.s a": "09-July-2021 11:43:52.52 AM",
+"dd/MMM/yyyy hh:mm:ss.s a": "09/Jul/2021 11:44:04.4 AM",
+"dd/MMMM/yyyy hh:mm:ss.s a": "09/July/2021 11:44:19.19 AM",
 "dd-MMM-yyyy HH:mm": "11-May-2016 15:35",
 "dd-MMM-yyyy HH:mm:ss.s": "12-Jul-2013 11:56:44.44",
 "dd-MMMM-yyyy HH:mm:ss.s": "09-July-2021 10:55:39.39",
@@ -307,6 +313,7 @@
 "dd.MM.yyyy": "09.07.2021",
 "yy/MM/dd": "21/07/09",
 "yyyy/MM/dd": "2021/07/09",
+"yyyy-MM-dd": "2020-08-09",
 "hh:mm a": "12:01 PM",
 "hh:mm:ss.s a": "12:02:24.24 PM",
 "dd hh:mm a": "09 12:02 PM",
@@ -318,7 +325,9 @@
 "MMM yyyy": "Mar 1999",
 "MMMM yyyy": "March 2016",
 "MM-yyyy": "06-2010",
-"MM/yyyy": "11/2012"
+"MM/yyyy": "11/2012",
+"HH:mm:ss": "11:04:14",
+"HH:mm:ss.s": "11:04:14.1"
 },
 {
 "id": "test1",
