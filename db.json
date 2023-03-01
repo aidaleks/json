@@ -90,7 +90,41 @@
 "image": "https://basket-01.wb.ru/vol87/part8796/8796767/images/big/2.jpg",
 "description": "tennisi raketka",
 "status": "ACTIVE",
-"balance": "2459.83",
+"balance": 2459.83,
+"name": "Herrera Schmidt",
+"email": "herreraschmidt@buzzopia.com",
+"phone": "+1 (802) 484-2688",
+"address": "312 Clay Street, Williamson, Virgin Islands, 7585",
+"tags": [
+"do",
+"ea",
+"velit",
+"magna",
+"eu",
+"non",
+"eu"
+],
+"friends": [
+{
+"id": 0,
+"name": "Etta Ryan"
+},
+{
+"id": 1,
+"name": "Jeri Everett"
+},
+{
+"id": 2,
+"name": "Sherri Clayton"
+}
+]
+},
+{
+"id": "63037dc6d4711ed2e043f89d",
+"image": null,
+"description": "image is null",
+"status": "ACTIVE",
+"balance": 2459.83,
 "name": "Herrera Schmidt",
 "email": "herreraschmidt@buzzopia.com",
 "phone": "+1 (802) 484-2688",
@@ -188,9 +222,43 @@
 ]
 },
 {
-"id": "63037dc6d2af02820d335e58",
+"id": "63037dc6a69d85cc0f6e8411",
 "image": "",
 "description": "nkar chka",
+"status": "ACTIVE",
+"balance": 2556.01,
+"name": "Gould Wong",
+"email": "gouldwong@buzzopia.com",
+"phone": "+1 (804) 434-2596",
+"address": "102 Seton Place, Bridgetown, Washington, 6557",
+"tags": [
+"id",
+"nostrud",
+"culpa",
+"minim",
+"sit",
+"dolore",
+"id"
+],
+"friends": [
+{
+"id": 0,
+"name": "Charlene Workman"
+},
+{
+"id": 1,
+"name": "Freda Sargent"
+},
+{
+"id": 2,
+"name": "Cara Benton"
+}
+]
+},
+{
+"id": "63037dc6d2af02820d335e58",
+"image": "https://basket-01.wb.ru/vol109/part10945/10945053/images/big/2.jpg",
+"description": null,
 "status": "INACTIVE",
 "balance": 1093.05,
 "name": "Stacy Hardy",
