@@ -316,14 +316,6 @@
 					"phone_dup": "(111) 111-1111"
 				},
 				{
-					"hex_value": "#b7222755",
-					"colour_name": "Bee's Knees",
-					"email_dup": "test5@test.com",
-					"bool_dup": true,
-					"MM/dd/yyyy": "07/09/2021",
-					"phone_dup": "(111) 511-1111"
-				},
-				{
 					"hex_value": "#8E4140111",
 					"colour_name": "Drip",
 					"email_dup": "test3@test.com",
@@ -374,19 +366,6 @@
 			"phone": "(333) 333-3333",
 			"MM/dd/yyyy HH:mm:ss": "07/06/2007 13:44:25",
 			"MM/dd/yyyy HH:mm": "10/06/2007 13:44"
-		}
-	],
-	"posts": [{
-			"id": 1,
-			"title": "Post 1"
-		},
-		{
-			"id": 2,
-			"title": "Post 2"
-		},
-		{
-			"id": 3,
-			"title": "Post 3"
 		}
 	],
 	"comments": [{
