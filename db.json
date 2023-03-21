@@ -12,12 +12,12 @@
 			"date1": " ",
 			"date2": "09/11/2021 00:00:00",
 				"images_case2": [{
-							"image_1": "https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_2048.jpg",
-							"name": null
+							"image_1": "https://basket-01.wb.ru/vol109/part10945//images/big/1.jpg",
+							"name": "description"
 						},
 						{
-							"image_1": "https://images.dog.ceo/breeds/beagle/n02088364_17406.jpg",
-							"name": "Descr_1, long text, long____text, Descr_1, long text, long____text,Descr_1, long text, long____text,Descr_1, long text, long____text"
+							"image_1": "https://file-examples.com/wp-content/uploads/2017/02/file_example_XLS_10.xls",
+							"name": "08/02/22"
 						},
 						{
 							"image_1": "https://effigis.com/wp-content/themes/effigis_2014/img/GeoEye_GeoEye1_50cm_8bit_RGB_DRA_Mining_2009FEB14_8bits_sub_r_15.jpg",
