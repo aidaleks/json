@@ -12,7 +12,7 @@
 			"date1": " ",
 			"date2": "09/11/2021 00:00:00",
 				"images_case2": [{
-							"image_1": "https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_2048.jpg",
+							"image_1": null,
 							"name": "Description 1"
 						},
 						{
@@ -29,7 +29,7 @@
 						}
 					],
 				"images_case3": [{
-							"image_1": "https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_2048.jpg",
+							"image_1": "",
 							"name": "Description 1"
 						},
 						{
