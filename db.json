@@ -14,7 +14,7 @@
 			"1Range_from_yyyy-MM-dd'T'HH:mm:ss": "2018-04-26T12:59:00",
 			"1Range_to_yyyy-MM-dd'T'HH:mm:ss": "2019-05-25T13:59:00",
 			"country": " ",
-			"images_case2_acceptable in image element": [{
+			"images_case2_acceptableinimageelement": [{
 					"Image_1": "https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_2048.jpg",
 					"Description": "Descr_1"
 				},
@@ -31,7 +31,7 @@
 					"Description": "description with symbols 123456798!@#$%^&*(((((((((((()_+"
 				}
 			],
-			"images_case3_not acceptable in image element": [
+			"images_case3_notacceptableinimagelement": [
 				{
 				"Image_1": "https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_2048.jpg",
 				"Description": "Descr_1"
