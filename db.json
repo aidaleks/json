@@ -13,7 +13,7 @@
 			"date2": "09/11/2021 00:00:00",
 				"images_case2": [{
 							"image_1": null,
-							"name": "Description 1"
+							"name": null
 						},
 						{
 							"image_1": "https://kinsta.com/wp-content/uploads/2017/04/SVG-size.png",
@@ -30,7 +30,7 @@
 					],
 				"images_case3": [{
 							"image_1": "",
-							"name": "Description 1"
+							"name": ""
 						},
 						{
 							"image_1": "https://redkey.pro/storage/app/media/confirmed/soglasie.pdf",
