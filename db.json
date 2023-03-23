@@ -321,10 +321,10 @@
 			"books": [
 
 				{
-					"hex_value": null,
+					"hex_value": "new value",
 					"colour_name": "",
 					"email_dup": "test@test.com",
-					"bool_dup": true,
+					"bool_dup": false,
 					"MM/dd/yyyy": "01/09/2021",
 					"phone_dup": "(111) 111-1111"
 				},
