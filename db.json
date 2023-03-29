@@ -29,14 +29,17 @@
 					],
 					"friends": [{
 							"id": null,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": ""
 						},
 						{
 							"id": 1,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Hillary Flowers"
 						},
 						{
 							"id": 2,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Morrison Valenzuela"
 						}
 					]
@@ -62,14 +65,17 @@
 					],
 					"friends": [{
 							"id": 0,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Etta Ryan"
 						},
 						{
 							"id": 1,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Jeri Everett"
 						},
 						{
 							"id": 2,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Sherri Clayton"
 						}
 					]
@@ -92,14 +98,17 @@
 					],
 					"friends": [{
 							"id": 0,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Etta Ryan"
 						},
 						{
 							"id": 1,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Jeri Everett"
 						},
 						{
 							"id": 2,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Sherri Clayton"
 						}
 					]
@@ -121,14 +130,17 @@
 					],
 					"friends": [{
 							"id": 0,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Leblanc Beach"
 						},
 						{
 							"id": 1,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Love Dalton"
 						},
 						{
 							"id": 2,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Sheppard Hickman"
 						}
 					]
@@ -151,14 +163,17 @@
 					],
 					"friends": [{
 							"id": 0,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Charlene Workman"
 						},
 						{
 							"id": 1,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Freda Sargent"
 						},
 						{
 							"id": 2,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Cara Benton"
 						}
 					]
@@ -183,15 +198,17 @@
 						"id"
 					],
 					"friends": [{
-							"id": 0,
+							"id": 0,"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Charlene Workman"
 						},
 						{
 							"id": 1,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Freda Sargent"
 						},
 						{
 							"id": 2,
+							"image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
 							"name": "Cara Benton"
 						}
 					]
