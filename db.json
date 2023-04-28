@@ -160,7 +160,7 @@
 					"status": "ACTIVE",
 					"balance": "2459.8444",
 					"ZIP": "0090-00000",
-					"name": "Herrera Schmidt",
+					"name": "",
 					"email": "herreraschmidt@buzzopia.com",
 					"phone": "(802) 484-2688",
 					"address": "312 Clay Street, Williamson, Virgin Islands, 7585",
@@ -199,7 +199,7 @@
 					"balance": "2556.01",
 					"ZIP": "345600000",
 					"name": "Gould Wong",
-					"email": "gouldwong@buzzopia.com",
+					"email": null,
 					"phone": "(804) 434-2596",
 					"address": "102 Seton Place, Bridgetown, Washington, 6557",
 					"tags": [
