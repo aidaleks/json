@@ -277,6 +277,7 @@
 			"HH:mm:ss.SSS_new": "11:04:14.01",
 			"country": "France",
 			"number": "2000",
+			"bool": true,
 			"phone": "(222) 222-2222",
 			"books": [
 
@@ -300,7 +301,7 @@
 			"bool": null
 		},
 		{
-			"id": " ",
+			"id": "test3",
 			"country": "Poland",
 			"number": "2002",
 			"bool": false,
