@@ -99,7 +99,7 @@
 					"description": "",
 					"number": "10000",
 					"status": "ACTIVE",
-					"balance": "-99.00",
+					"balance": "- 99.00",
 					"ZIP": "000000000",
 					"name": "Lucy Sanders",
 					"email": "lucysanders@buzzopia.com",
