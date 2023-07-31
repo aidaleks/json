@@ -2,6 +2,7 @@
 	"date": [
 		{
 			"id": "test2",
+			"email": "test2@test.com",
 			"image_not array": "https://basket-01.wb.ru/vol109/part10945/10945053/images/big/1.jpg",
 			"image_broken_path": "https://basket-01.wb.ru/vol109/part10945//images/big/1.jpg",
 			"image_bmp": "https://www.fileformat.info/format/bmp/sample/4cb74cda027a43f3b278c05c3770950f/MARBLES.BMP",
@@ -266,6 +267,7 @@
 		}, 
 		{
 			"id": "test1",
+			"email": "test1@test.com",
 			"date1": null,
 			"date2": "",
 			"id4": "$ 20.00",
