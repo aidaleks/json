@@ -1,5 +1,6 @@
 {
-	"date": [{
+	"date": [
+		{
 			"id": "test2",
 			"image_not array": "https://basket-01.wb.ru/vol109/part10945/10945053/images/big/1.jpg",
 			"image_broken_path": "https://basket-01.wb.ru/vol109/part10945//images/big/1.jpg",
@@ -267,6 +268,7 @@
 			"id": "test1",
 			"date1": null,
 			"date2": "",
+			"id4": "20.00",
 			"images_case15": [
 {
 "image_1": "https://www.w3schools.com/w3images/mountains.jpg",
