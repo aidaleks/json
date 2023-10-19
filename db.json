@@ -3,17 +3,6 @@
         {
             "id": "test2",
             "email": "test2@test.com",
-            "image_not array": "https://basket-01.wb.ru/vol109/part10945/10945053/images/big/1.jpg",
-            "image_broken_path": "https://basket-01.wb.ru/vol109/part10945//images/big/1.jpg",
-            "image_bmp": "https://www.fileformat.info/format/bmp/sample/4cb74cda027a43f3b278c05c3770950f/MARBLES.BMP",
-            "image_binarycode": "",
-            "image_svg": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg",
-            "video_FLV": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/20051210-w50s_56K.flv",
-            "iage_SVG2": "https://www.svgrepo.com/show/511297/spiral-30.svg",
-            "image_webp": "https://www.gstatic.com/webp/gallery/1.sm.webp",
-            "date7": "2020-07-21T14:27:48.12",
-            "date5": "2020-07-21T00:00:00.000",
-            "date-param": "09/18/2021",
             "id2": "6,8,11",
             "id1": 1,
             "MM/dd/yyy hh:mm": "18/11/1995 03:06 AM",
@@ -27,7 +16,7 @@
             "drivers": [
                 {
                     "id": null,
-                    "image": "https://basket-09.wb.ru/vol1237/part123732/123732322/images/big/1.jpg",
+                    "image": "1",
                     "description": "sirun shor",
                     "number": "0",
                     "status": "",
@@ -61,80 +50,6 @@
                             "id": 2,
                             "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
                             "name": "Morrison Valenzuela"
-                        }
-                    ]
-                },
-                {
-                    "id": "63037dc6d4711ed2e043f89d",
-                    "image": "https://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
-                    "description": "PDF file",
-                    "number": "-0.087",
-                    "status": "ACTIVE",
-                    "bool": true,
-                    "balance": 1,
-                    "date_new_table": "11-25-2012",
-                    "ZIP": "00000 0001",
-                    "name": "Herrera Schmidt",
-                    "email": "herreraschmidt",
-                    "phone": "484-2688",
-                    "tags": [
-                        "do",
-                        "ea",
-                        "velit",
-                        "eu"
-                    ],
-                    "friends": [
-                        {
-                            "id": 0,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
-                            "name": "Etta Ryan"
-                        },
-                        {
-                            "id": 1,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
-                            "name": "Jeri Everett"
-                        },
-                        {
-                            "id": 2,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
-                            "name": "Sherri Clayton"
-                        }
-                    ]
-                },
-                {
-                    "id": "63037dc6d45172639108f727",
-                    "image": "https://basket-07.wb.ru/vol1105/part110590/110590293/images/big/2.jpg",
-                    "description": "",
-                    "number": "10000",
-                    "status": "ACTIVE",
-                    "bool": false,
-                    "balance": "1200",
-                    "date_new_table": "04/02/1823 14:00",
-                    "ZIP": "000000000",
-                    "name": "Lucy Sanders",
-                    "email": "lucysanders@buzzopia.com",
-                    "phone": "(833) 547-3209",
-                    "address": "539 Manhattan Avenue, Oceola, Oregon, 2958",
-                    "tags": [
-                        "exercitation",
-                        "non",
-                        "tempor"
-                    ],
-                    "friends": [
-                        {
-                            "id": 0,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
-                            "name": "Leblanc Beach"
-                        },
-                        {
-                            "id": 1,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
-                            "name": "Love Dalton"
-                        },
-                        {
-                            "id": 2,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
-                            "name": "Sheppard Hickman"
                         }
                     ]
                 },
