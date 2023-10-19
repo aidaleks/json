@@ -38,17 +38,17 @@
                     "friends": [
                         {
                             "id": null,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
+                            "image": "1",
                             "name": ""
                         },
                         {
                             "id": 1,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
+                            "image": "2",
                             "name": "Hillary Flowers"
                         },
                         {
                             "id": 2,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
+                            "image": "3",
                             "name": "Morrison Valenzuela"
                         }
                     ]
