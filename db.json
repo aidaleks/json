@@ -6,10 +6,9 @@
 			"date": "2018-04-26",
             "id2": "6,8,11",
             "id1": 1,
-            "MM/dd/yyy hh:mm": "18/11/1995 03:06 AM",
-            "DD-MM-yyyy hh:mm": "18-11-1995 03:06 AM",
-            "MM/dd/yyy hh:mm:ss": "18/11/1995 03:06:54 PM",
-            "DD-MM-yyyy hh:mm:ss": "18-11-1995 03:06:53 AM",
+			"Head": true,
+			"face": true,
+			"Right Upper Leg": true,
             "hh:mm": "03:06 PM",
             "hh:mm:ss": "03:06:53 AM",
             "id7": "000556",
@@ -197,6 +196,8 @@
 			"date": "2018-04-26",
             "date1": null,
             "date2": "",
+			"Head": false,
+			"face": false,
             "id4": "$ 20.00",
             "images_case15": [
                 {
