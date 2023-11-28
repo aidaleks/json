@@ -8,7 +8,7 @@
             "id1": 1,
 			"Unknown": true,
 			"Head": true,
-			"face": true,
+			"face": null,
 			"Right Upper Leg": true,
             "hh:mm": "03:06 PM",
             "hh:mm:ss": "03:06:53 AM",
