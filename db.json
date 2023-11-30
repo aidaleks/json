@@ -4,7 +4,7 @@
             "id": "test2",
             "email": "test2@test.com",
 			"date": "2018-04-26",
-            "id2": "SUV",
+            "id2": "",
             "id1": 1,
 			"Unknown": true,
 			"Head": true,
@@ -198,7 +198,7 @@
             "date2": "",
 			"Head": false,
 			"face": null,
-            "id2": "Pickup truck",
+            "id2": null,
             "images_case15": [
                 {
                     "image_1": "https://www.w3schools.com/w3images/mountains.jpg",
