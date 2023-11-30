@@ -8,7 +8,7 @@
             "id1": 1,
 			"Unknown": true,
 			"Head": true,
-			"face": null,
+			"face": true,
 			"Right Upper Leg": true,
             "hh:mm": "03:06 PM",
             "hh:mm:ss": "03:06:53 AM",
@@ -197,7 +197,7 @@
             "date1": null,
             "date2": "",
 			"Head": false,
-			"face": false,
+			"face": null,
             "id2": "Pickup truck",
             "images_case15": [
                 {
