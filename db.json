@@ -3,7 +3,7 @@
         {
             "id": "test2",
             "email": "test2@test.com",
-			"date": "2018-04-26",
+			"date": "Holiday_jpe.jpe",
             "id2": "minivan",
             "id1": 1,
 			"Unknown": true,
@@ -193,7 +193,7 @@
         {
             "id": "test1",
             "email": "test1@test.com",
-			"date": "2018-04-26",
+			"date": "Insurance Program Garant (2).pdf",
             "date1": null,
             "date2": "",
 			"Head": false,
@@ -245,6 +245,7 @@
         },
         {
             "id": "test3",
+			"date": "incorrect file name",
             "country": "Poland",
             "number": "2002",
             "bool": true,
