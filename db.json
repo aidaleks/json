@@ -4,7 +4,7 @@
             "id": "test2",
             "email": "test2@test.com",
 			"date": "2018-04-26",
-            "id2": "",
+            "id2": "minivan",
             "id1": 1,
 			"Unknown": true,
 			"Head": true,
@@ -197,7 +197,7 @@
             "date1": null,
             "date2": "",
 			"Head": false,
-			"face": null,
+			"face": true,
             "id2": null,
             "images_case15": [
                 {
@@ -248,7 +248,7 @@
             "country": "Poland",
             "number": "2002",
             "bool": true,
-			"id2": "sedan",
+			"id2": "SUV",
             "phone": "(333) 333-3333",
 			"email": "car3@test.com",
             "MM/dd/yyyy HH:mm:ss": "07/06/2007 13:44:25",
