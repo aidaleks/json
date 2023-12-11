@@ -130,17 +130,17 @@
                     "friends": [
                         {
                             "id": 0,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
+                            "image": "a",
                             "name": "Charlene Workman"
                         },
                         {
                             "id": 1,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
+                            "image": "s",
                             "name": "Freda Sargent"
                         },
                         {
                             "id": 2,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
+                            "image": "d",
                             "name": "Cara Benton"
                         }
                     ]
