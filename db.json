@@ -148,7 +148,6 @@
             ],
             "date2": "09/11/2021 00:00:00",
             "1Range_from_yyyy-MM-dd'T'HH:mm:ss": "2018-04-26T12:59:00",
-            "1Range_to_yyyy-MM-dd'T'HH:mm:ss": "2019-05-25T13:59:00",
             "claim_number": "CAZ-0001610",
             "bool": true,
             "boolian": true,
@@ -239,7 +238,6 @@
                 }
             ],
             "dd-MMM-yyyy HH:mm:ss.SSS_new": "12-Jul-2013 11:56:44.044",
-            "dd-MMM-yyyy HH:mm:ss.SSS_new2": "12-Jul-2013 11:56:44.04",
             "HH:mm:ss.SSS_new": "11:04:14.01",
             "country": "France",
             "number": "2000",
