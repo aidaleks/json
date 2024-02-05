@@ -37,7 +37,7 @@
             "drivers": [
                 {
                     "id": null,
-                    "image": "1",
+                    "image": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
                     "description": "sirun shor",
                     "number": "0",
                     "status": "SUV",
