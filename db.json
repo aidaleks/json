@@ -30,8 +30,6 @@
                     "bool": true,
                     "balance": "-$ 99.00",
                     "date_new_table": "11/18/1995",
-					"idHeader1": "CAZ-0002222",
-					"idHeader2": "Aleksanyan",
                     "ZIP": "00000-0000",
                     "name": "Shelia Henderson",
                     "email": "a",
@@ -48,16 +46,22 @@
                         {
                             "id": null,
                             "image": "1",
+							"idHeader1": "CAZ-0002222",
+							"idHeader2": "Aleksanyan",
                             "name": ""
                         },
                         {
                             "id": 1,
                             "image": "2",
+							"idHeader1": "CAZ-00024244",
+							"idHeader2": "",
                             "name": "Hillary Flowers"
                         },
                         {
                             "id": 2,
                             "image": "3",
+							"idHeader1": "",
+							"idHeader2": "Aleksanyan",
                             "name": "Morrison Valenzuela"
                         }
                     ]
@@ -68,8 +72,6 @@
                     "description": "tennisi raketka",
                     "number": "77.432323",
                     "status": "Pickup truck",
-					"idHeader1": "CAZ-00024244",
-					"idHeader2": "",
                     "bool": true,
                     "balance": "200.50",
                     "date_new_table": "",
@@ -113,8 +115,6 @@
                     "status": "",
                     "balance": "601",
                     "date_new_table": "June 1990",
-					"idHeader1": "",
-					"idHeader2": "Aleksanyan",
                     "ZIP": "345600000",
                     "name": "Gould Wong",
                     "email": null,
