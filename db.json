@@ -92,17 +92,23 @@
                     "friends": [
                         {
                             "id": 0,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
+                            "image": ".",
+							"idHeader1": "CAZ",
+							"idHeader2": "hro",
                             "name": "Etta Ryan"
                         },
                         {
                             "id": 1,
-                            "image": "https://basket-09.wb.ru/vol1221/part122131/122131393/images/big/1.jpg",
+                            "image": "",
+							"idHeader1": "TX",
+							"idHeader2": "aaaa",
                             "name": "Jeri Everett"
                         },
                         {
                             "id": 2,
                             "image": "zz",
+							"idHeader1": "",
+							"idHeader2": "test",
                             "name": "Sherri Clayton"
                         }
                     ]
@@ -133,16 +139,22 @@
                         {
                             "id": 0,
                             "image": "a",
+							"idHeader1": "CAZ-222",
+							"idHeader2": "Aleksanyan",
                             "name": "Charlene Workman"
                         },
                         {
                             "id": 1,
                             "image": "s",
+							"idHeader1": "TX-0002222",
+							"idHeader2": "Aleksanyan",
                             "name": "Freda Sargent"
                         },
                         {
                             "id": 2,
                             "image": "d",
+							"idHeader1": "CAZ-0",
+							"idHeader2": "Aleksanyan",
                             "name": "Cara Benton"
                         }
                     ]
