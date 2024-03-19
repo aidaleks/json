@@ -7,14 +7,14 @@
             "id2": "minivan",
             "id1": 2,
 			"id4": "test2 ",
-            "price9": "$ 100.000.000",
-            "price10": "0.6985 ",
-            "Zip1": "12345",
-            "Zip2": "12345-6789",
-            "Value11": "symbol/test",
             "Unknown": true,
             "Head": true,
             "face": true,
+			"image_1": "https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
+			"image_fileName1": "products/brain-freeze_a_800x1200.jpg?v=1502255076",
+			"image_fileName1.1": "products/brain-freeze_a_800x1200.jpg",
+			"image_2": "https://d3t32hsnjxo7q6.cloudfront.net/i/991799d3e70b8856686979f8ff6dcfe0_ra,w158,h184_pa,w158,h184.png",
+			"image_fileName2": "991799d3e70b8856686979f8ff6dcfe0_ra,w158,h184_pa,w158,h184.png",
             "Right Upper Leg": true,
             "hh:mm": "03:06 PM",
             "hh:mm:ss": "03:06:53 AM",
@@ -226,11 +226,11 @@
             "id2": "Coupe",
             "images_case15": [
                 {
-                    "image_1": "https://www.w3schools.com/w3images/mountains.jpg",
+                    "image_1": "1",
                     "name": "123456789123456789"
                 },
                 {
-                    "image_1": "https://images.dog.ceo/breeds/beagle/n02088364_17406.jpg",
+                    "image_1": "2",
                     "name": "08/02/22"
                 },
                 {
@@ -238,7 +238,7 @@
                     "name": "Morrison Valenzuela"
                 },
                 {
-                    "image_1": "https://www.w3schools.com/w3images/mountains.jpg",
+                    "image_1": "3",
                     "name": "1"
                 }
             ],
