@@ -6,11 +6,13 @@
             "date": "Holiday_jpe.jpe",
             "id2": "minivan",
             "id1": 40,
-"listing_record": {
-"list_date": "2/22/2024",
-"list_price": 350000,
-"status": "Pending"
-},
+            "listing": {
+                "listing_record": {
+                    "list_date": "2/22/2024",
+                    "list_price": 350000,
+                    "status": "Pending"
+                }
+            },
             "id7": "1",
             "id3": "-3 4",
             "drivers": [
@@ -38,22 +40,22 @@
                         {
                             "id": null,
                             "image": "1",
-							"idHeader1": "CAZ-0002222",
-							"idHeader2": "Aleksanyan",
+                            "idHeader1": "CAZ-0002222",
+                            "idHeader2": "Aleksanyan",
                             "name": ""
                         },
                         {
                             "id": 1,
                             "image": "2",
-							"idHeader1": "CAZ-00024244",
-							"idHeader2": "",
+                            "idHeader1": "CAZ-00024244",
+                            "idHeader2": "",
                             "name": "Hillary Flowers"
                         },
                         {
                             "id": 2,
                             "image": "3",
-							"idHeader1": "",
-							"idHeader2": "Aleksanyan",
+                            "idHeader1": "",
+                            "idHeader2": "Aleksanyan",
                             "name": "Morrison Valenzuela"
                         }
                     ]
@@ -77,22 +79,22 @@
                         {
                             "id": 0,
                             "image": ".",
-							"idHeader1": "CAZ",
-							"idHeader2": "hro",
+                            "idHeader1": "CAZ",
+                            "idHeader2": "hro",
                             "name": "Etta Ryan"
                         },
                         {
                             "id": 1,
                             "image": "",
-							"idHeader1": "TX",
-							"idHeader2": "aaaa",
+                            "idHeader1": "TX",
+                            "idHeader2": "aaaa",
                             "name": "Jeri Everett"
                         },
                         {
                             "id": 2,
                             "image": "zz",
-							"idHeader1": "",
-							"idHeader2": "test",
+                            "idHeader1": "",
+                            "idHeader2": "test",
                             "name": "Sherri Clayton"
                         }
                     ]
@@ -123,22 +125,22 @@
                         {
                             "id": 0,
                             "image": "a",
-							"idHeader1": "CAZ-222",
-							"idHeader2": "Aleksanyan",
+                            "idHeader1": "CAZ-222",
+                            "idHeader2": "Aleksanyan",
                             "name": "Charlene Workman"
                         },
                         {
                             "id": 1,
                             "image": "s",
-							"idHeader1": "TX-0002222",
-							"idHeader2": "Aleksanyan",
+                            "idHeader1": "TX-0002222",
+                            "idHeader2": "Aleksanyan",
                             "name": "Freda Sargent"
                         },
                         {
                             "id": 2,
                             "image": "d",
-							"idHeader1": "CAZ-0",
-							"idHeader2": "Aleksanyan",
+                            "idHeader1": "CAZ-0",
+                            "idHeader2": "Aleksanyan",
                             "name": "Cara Benton"
                         }
                     ]
@@ -203,7 +205,9 @@
             "date": "a",
             "date1": null,
             "date2": " ",
-			"listing_record": null,
+            "listing": {
+                "listing_record": null
+            },
             "id1": 10,
             "Value1": "symbol1 test",
             "Head": false,
