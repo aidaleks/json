@@ -5,8 +5,8 @@
             "email": "test2@test.com",
             "date": "Holiday_jpe.jpe",
             "id2": "Minivan",
-			"metal": 0.0001,
-            "id1": 40,
+			"metal": 0.01,
+            "id1": 0.67,
             "listing": {
                 "listing_record": {
                     "list_date": "2/22/2024",
