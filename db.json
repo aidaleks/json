@@ -3,10 +3,11 @@
         {
             "id": "test2",
             "email": "test2@test.com",
-            "date": "Holiday_jpe.jpe",
-            "id2": "Minivan",
-			"metal": 0.0001,
-            "id1": 0.00067,
+           "phone_API1": 1234567890,
+           "phone_API2": "1234567890",
+           "zip_API1": "123456789",
+            "zip_API2": 123456789,
+            "zip_API3": "12345-6789",
             "listing": {
                 "listing_record": {
                     "list_date": "2/22/2024",
