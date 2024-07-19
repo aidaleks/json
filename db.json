@@ -3,9 +3,9 @@
         {
             "id": "test2",
             "email": "test2@test.com",
-           "phone_API1": 1234567890,
-           "phone_API2": "1234567890",
-           "zip_API1": "123456789",
+			"date_current": "19-07-2024",
+			"date-current_time": "07/19/2024 01:00 AM",
+			"date-time": "01:00 AM",
             "zip_API2": 123456789,
             "zip_API3": "12345-6789",
             "listing": {
