@@ -2,11 +2,321 @@
     "date": [
         {
             "id": "test1",
+			"Aro" : [
+                            {
+                                "Name": "Policy ID",
+                                "Value": "123"
+                            },
+                            {
+                                "Name": "Request ID",
+                                "Value": "ABC"
+                            }
+                        ],
             "email": "test2@test.com",
 			"date_current": "19-07-2024",
 			"date-current_time": "07/19/2024 01:00 AM",
 			"date-time": "01:00 AM",
+            "zip_API2": 123456789,{
+    "date": [
+        {
+            "id": "test1",
+            "Aro": [
+                {
+                    "Name": "Policy ID",
+                    "Value": "123"
+                },
+                {
+                    "Name": "Request ID",
+                    "Value": "ABC"
+                }
+            ],
+            "email": "test2@test.com",
+            "date_current": "19-07-2024",
+            "date-current_time": "07/19/2024 01:00 AM",
+            "date-time": "01:00 AM",
             "zip_API2": 123456789,
+            "zip_API3": "12345-6789",
+            "listing": {
+                "listing_record": {
+                    "list_date": "2/22/2024",
+                    "list_price": 350000,
+                    "status": "Pending"
+                }
+            },
+            "id7": 40,
+            "id3": "Elen Arzumanyan",
+            "id4": "$ 1,234.00",
+            "drivers": [
+                {
+                    "id": null,
+                    "image": "https://cl-data.tech-suite.com/25_19_06_2024_06_27_50.jpeg",
+                    "description": "!@#$%^&*()+_)(*&^%1234567890-=|:?><,./;'<>?//.,./,.;'>+_)(*&^%$#@!~`",
+                    "number": "0",
+                    "status": "SUV",
+                    "bool": true,
+                    "balance": "-$ 99.00",
+                    "date_new_table": "11/18/1995",
+                    "ZIP": "00000-0000",
+                    "name": "s",
+                    "email": "a",
+                    "phone": "9215063096",
+                    "address": "1",
+                    "tags": [
+                        "laboris",
+                        "elit",
+                        "sit",
+                        "est"
+                    ],
+                    "friends": [
+                        {
+                            "id": null,
+                            "image": "1",
+                            "idHeader1": "CAZ-0002222",
+                            "idHeader2": "Aleksanyan",
+                            "name": ""
+                        },
+                        {
+                            "id": 1,
+                            "image": "2",
+                            "idHeader1": "CAZ-00024244",
+                            "idHeader2": "",
+                            "name": "Hillary Flowers"
+                        },
+                        {
+                            "id": 2,
+                            "image": "3",
+                            "idHeader1": "",
+                            "idHeader2": "Aleksanyan",
+                            "name": "Morrison Valenzuela"
+                        }
+                    ]
+                },
+                {
+                    "id": "63037dc6d4711ed2e043f89d",
+                    "image": "https://cl-data.tech-suite.com/25_19_06_2024_06_27_50.jpeg",
+                    "description": "tennisi raketka",
+                    "number": "77.432323",
+                    "address": "1",
+                    "tags": [
+                        "do",
+                        "ea",
+                        "velit",
+                        "magna",
+                        "eu",
+                        "non",
+                        "eu"
+                    ],
+                    "friends": [
+                        {
+                            "id": 0,
+                            "image": ".",
+                            "idHeader1": "CAZ",
+                            "idHeader2": "hro",
+                            "name": "Etta Ryan"
+                        },
+                        {
+                            "id": 1,
+                            "image": "",
+                            "idHeader1": "TX",
+                            "idHeader2": "aaaa",
+                            "name": "Jeri Everett"
+                        },
+                        {
+                            "id": 2,
+                            "image": "zz",
+                            "idHeader1": "",
+                            "idHeader2": "test",
+                            "name": "Sherri Clayton"
+                        }
+                    ]
+                },
+                {
+                    "id": "63037dc6a69d85cc0f6e8411",
+                    "image": "1",
+                    "description": "nkar chka",
+                    "number": "-55.44444444",
+                    "status": "",
+                    "balance": "601",
+                    "date_new_table": "June 1990",
+                    "ZIP": "345600000",
+                    "name": "Gould Wong",
+                    "email": null,
+                    "phone": "(804) 434-2596",
+                    "address": "aa",
+                    "tags": [
+                        "id",
+                        "nostrud",
+                        "culpa",
+                        "minim",
+                        "sit",
+                        "dolore",
+                        "id"
+                    ],
+                    "friends": [
+                        {
+                            "id": 0,
+                            "image": "a",
+                            "idHeader1": "CAZ-222",
+                            "idHeader2": "Aleksanyan",
+                            "name": "Charlene Workman"
+                        },
+                        {
+                            "id": 1,
+                            "image": "s",
+                            "idHeader1": "TX-0002222",
+                            "idHeader2": "Aleksanyan",
+                            "name": "Freda Sargent"
+                        },
+                        {
+                            "id": 2,
+                            "image": "d",
+                            "idHeader1": "CAZ-0",
+                            "idHeader2": "Aleksanyan",
+                            "name": "Cara Benton"
+                        }
+                    ]
+                }
+            ],
+            "date2": "09/11/2021 00:00:00",
+            "1Range_from_yyyy-MM-dd'T'HH:mm:ss": "2018-04-26T12:59:00",
+            "claim_number": "CAZ-0001610",
+            "bool": true,
+            "boolian": true,
+            "number": "0.5",
+            "phone": "(111) 111-1111",
+            "lastname": "hro",
+            "googlemap": "49 Komitas Avenue, Yerevan, Armenia",
+            "countries": [
+                {
+                    "tab": "test1",
+                    "claim": "AZZ1"
+                },
+                {
+                    "tab": "test2",
+                    "claim": "AZZ2"
+                },
+                {
+                    "tab": "Spain",
+                    "claim": "AZZ_Spain"
+                },
+                {
+                    "tab": "France"
+                },
+                {
+                    "tab": "Poland"
+                },
+                {
+                    "tab": "Austria"
+                }
+            ],
+            "books": [
+                {
+                    "hex_value": "new value",
+                    "colour_name": "",
+                    "email_dup": "test@test.com",
+                    "bool_dup": false,
+                    "MM/dd/yyyy": "01/09/2021",
+                    "phone_dup": "(111) 111-1111"
+                },
+                {
+                    "hex_value": "#8E4140111",
+                    "colour_name": "Drip",
+                    "email_dup": "test3@test.com",
+                    "bool_dup": false,
+                    "MM/dd/yyyy": "01/09/2021",
+                    "phone_dup": "(111) 311-1111"
+                }
+            ],
+            "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'": "3",
+            "HH:mm:ss.SSS": "11:04:14.101"
+        },
+        {
+            "id": "48125 65TH 1/2 ST, SALOME, AZ 85348",
+            "email": "test1@test.com",
+            "date": "a",
+            "date1": null,
+            "date2": " ",
+            "listing": {
+                "listing_record": null
+            },
+            "id1": 10,
+            "Value1": "symbol1 test",
+            "Head": false,
+            "face": true,
+            "id7": 42,
+            "id3": "Super Admin",
+            "images_case15": [
+                {
+                    "image_1": "1",
+                    "name": "a"
+                },
+                {
+                    "image_1": "2",
+                    "name": "08/02/22"
+                },
+                {
+                    "image_1": "1",
+                    "name": "a"
+                },
+                {
+                    "image_1": "3",
+                    "name": "1"
+                }
+            ],
+            "dd-MMM-yyyy HH:mm:ss.SSS_new": "12-Jul-2013 11:56:44.044",
+            "HH:mm:ss.SSS_new": "11:04:14.01",
+            "country": "France",
+            "number": "2000",
+            "phone": "(222) 222-2222",
+            "books": [
+                {
+                    "hex_value": null,
+                    "colour_name": "",
+                    "email_dup": "test@test.com",
+                    "bool_dup": true,
+                    "MM/dd/yyyy": "01/09/2021",
+                    "phone_dup": "(111) 111-1111"
+                },
+                {
+                    "hex_value": "#8E414033",
+                    "colour_name": "Drip",
+                    "email_dup": "test3@test.com",
+                    "bool_dup": false,
+                    "MM/dd/yyyy": "05/05/1780",
+                    "phone_dup": "(111) 311-1111"
+                }
+            ],
+            "bool": null
+        },
+        {
+            "id": "test3",
+            "date": "incorrect file name",
+            "country": "Poland",
+            "number": "2002",
+            "bool": true,
+            "id2": "SUV",
+            "phone": "(333) 333-3333",
+            "email": "car3@test.com",
+            "MM/dd/yyyy HH:mm:ss": "07/06/2007 13:44:25",
+            "MM/dd/yyyy HH:mm": "10/06/2007 13:44"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
             "zip_API3": "12345-6789",
             "listing": {
                 "listing_record": {
